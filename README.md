@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hayley-j0nes.
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I’m looking to collaborate on anything.
